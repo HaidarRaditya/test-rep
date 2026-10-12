@@ -1,3 +1,0 @@
-# Git in VS Code
-
-this file and the text in it is written in vs code
